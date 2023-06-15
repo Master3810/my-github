@@ -72,7 +72,7 @@
         <br>
         <textarea name="message" id="message" cols="60" rows="5" required>
 </textarea>
-</div>.0
+</div>
 
  <br>
 <button onclick="validate()">submit</button>
