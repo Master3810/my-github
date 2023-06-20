@@ -5,10 +5,16 @@
 
        function validate(){
             const Firstname=document.getElementById("Firstname").value;
+            if(Firstname==""||irstname=="null"){
+                alert("please input your Firstname")
+            }
             const lastname=document.getElementById("lastname").value;
+            if(lastname==""||lastname=="null"){
+                alert("please input your lastname")
+            }
             const email=document.getElementById("email").value;
-            if(Firstname==""&& lastname==""&& email==""){
-                alert("please input all fields")
+            if(email==""||email=="null"){
+                alert("please input your email")
             }
         }
 

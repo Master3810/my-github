@@ -8,7 +8,7 @@
             
             a {text-decoration: none;}
             a:active{color:red;} 
-            h1{ font-family: Arial,; color:maroon; text-align:center;background-color:burlywood }
+            h1{ font-family: Arial; color:maroon; text-align:center;background-color:burlywood }
        .nav ul{ background-color: burlywood}
         Ul {
             list-style-type: none;
