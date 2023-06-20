@@ -11,7 +11,7 @@
     a:active{color:red;}
     a {
         float: left;
-            padding: 5px 10px;
+            padding: 5px;
             background-color: hotpink;
             color: white;
             border-left: 2px solid black ;
